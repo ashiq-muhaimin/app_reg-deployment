@@ -1,3 +1,0 @@
-Username (leave blank to use 'ashiq'): app_reg
-Email address: app_reg@gmail.com
-Password: app_reg
